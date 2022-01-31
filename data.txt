@@ -1,0 +1,3 @@
+name : charlie
+age: 25
+fave colour: yellow
